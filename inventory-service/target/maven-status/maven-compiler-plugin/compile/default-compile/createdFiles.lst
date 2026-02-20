@@ -1,0 +1,12 @@
+com\koerber\inventory\dto\InventoryResponse$InventoryResponseBuilder.class
+com\koerber\inventory\dto\BatchResponse$BatchResponseBuilder.class
+com\koerber\inventory\dto\InventoryUpdateRequest.class
+com\koerber\inventory\entity\InventoryBatch.class
+com\koerber\inventory\InventoryServiceApplication.class
+com\koerber\inventory\dto\BatchResponse.class
+com\koerber\inventory\controller\InventoryController.class
+com\koerber\inventory\service\InventoryService.class
+com\koerber\inventory\entity\InventoryBatch$InventoryBatchBuilder.class
+com\koerber\inventory\mapper\InventoryMapper.class
+com\koerber\inventory\repository\InventoryBatchRepository.class
+com\koerber\inventory\dto\InventoryResponse.class

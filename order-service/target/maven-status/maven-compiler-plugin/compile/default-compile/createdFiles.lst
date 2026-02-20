@@ -1,0 +1,12 @@
+com\koerber\order\entity\Order$OrderBuilder.class
+com\koerber\order\client\InventoryClient.class
+com\koerber\order\dto\OrderResponse.class
+com\koerber\order\service\OrderService.class
+com\koerber\order\controller\OrderController.class
+com\koerber\order\dto\OrderRequest.class
+com\koerber\order\repository\OrderRepository.class
+com\koerber\order\exception\GlobalExceptionHandler.class
+com\koerber\order\dto\OrderResponse$OrderResponseBuilder.class
+com\koerber\order\entity\Order.class
+com\koerber\order\OrderServiceApplication.class
+com\koerber\order\config\RestConfig.class
